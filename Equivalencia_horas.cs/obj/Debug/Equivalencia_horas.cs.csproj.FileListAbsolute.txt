@@ -1,0 +1,5 @@
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_horas.cs\Equivalencia_horas.cs\bin\Debug\Equivalencia_horas.cs.exe.config
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_horas.cs\Equivalencia_horas.cs\bin\Debug\Equivalencia_horas.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_horas.cs\Equivalencia_horas.cs\bin\Debug\Equivalencia_horas.cs.pdb
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_horas.cs\Equivalencia_horas.cs\obj\Debug\Equivalencia_horas.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_horas.cs\Equivalencia_horas.cs\obj\Debug\Equivalencia_horas.cs.pdb
